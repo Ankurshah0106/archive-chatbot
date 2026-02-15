@@ -1,0 +1,10 @@
+Total Revenue (USD millions),Net Income (USD millions),Total Assets (USD millions),Total Liabilities (USD millions),Operating Cash Flow (USD millions),Company,Fiscal Year (filename),File
+383285.0,96995.0,352583.0,290437.0,110543.0,Apple,2023,app2023.pdf
+391035.0,93736.0,364980.0,308030.0,118254.0,Apple,2024,app2024.pdf
+416161.0,112010.0,359241.0,285508.0,111482.0,Apple,2025,app2025.pdf
+211915.0,72361.0,411976.0,205753.0,87582.0,Microsoft,2023,Micro 2023.pdf
+245122.0,88136.0,512163.0,243686.0,118548.0,Microsoft,2024,Micro 2024.pdf
+281724.0,101832.0,619003.0,275524.0,136162.0,Microsoft,2025,Micro2025.pdf
+81462.0,12587.0,82338.0,36440.0,14724.0,Tesla,2023,tsla2023.pdf
+96773.0,14974.0,106618.0,43009.0,13256.0,Tesla,2024,tsla2024.pdf
+97690.0,7153.0,122070.0,48390.0,14923.0,Tesla,2025,tsla2025.pdf
